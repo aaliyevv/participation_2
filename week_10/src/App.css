@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-header, .App-footer {
+  background-color: #282c34;
+  min-height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.quote-box {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.quote-text {
+  font-style: italic;
+}
+
+.quote-author {
+  font-weight: bold;
+}
+
+.quote-category {
+  color: #007bff;
+}
