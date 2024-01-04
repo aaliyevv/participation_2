@@ -1,0 +1,13 @@
+.completed {
+  text-decoration: line-through;
+  color: grey;
+}
+
+li {
+  cursor: pointer;
+  list-style-type: none;
+}
+
+button {
+  margin-left: 10px;
+}
